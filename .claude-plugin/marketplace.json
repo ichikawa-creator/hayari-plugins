@@ -1,0 +1,20 @@
+{
+  "name": "hayari",
+  "description": "Hayari の Claude Code プラグイン",
+  "owner": {
+    "name": "Hayari",
+    "url": "https://mds-sales.vercel.app/link/ai-reels"
+  },
+  "plugins": [
+    {
+      "name": "ai-reels",
+      "description": "AIキャラ動画の説明書：キャラ作り→ネタ→台本→Higgsfield の生成→検査→仕上げ→投稿文まで、日本語で頼むだけで進める。有料生成は見積もりとOKの後だけ。",
+      "version": "1.0.0",
+      "source": {
+        "source": "archive",
+        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.0.0.zip",
+        "sha256": "12975ea90df0beb329a3084572bcebc15b9e52bd9757c547796631c391598f81"
+      }
+    }
+  ]
+}
