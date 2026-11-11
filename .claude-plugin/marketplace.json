@@ -9,11 +9,11 @@
     {
       "name": "ai-reels",
       "description": "AIキャラ動画の説明書：キャラ作り→ネタ→台本→Higgsfield の生成→検査→仕上げ→投稿文まで、日本語で頼むだけで進める。有料生成は見積もりとOKの後だけ。",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "source": {
         "source": "archive",
-        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.0.5.zip",
-        "sha256": "8686d5c0570a380c48d06e0c1f992a1b3e4dff4d91f769c4ff1543df67826107"
+        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.0.6.zip",
+        "sha256": "d758b399ca2cad631596754da004ae5817d8af786fd78163acfd5f823fe05804"
       }
     }
   ]
