@@ -8,12 +8,12 @@
   "plugins": [
     {
       "name": "ai-reels",
-      "description": "AIキャラ動画の説明書：キャラ作り→ネタ→台本→Higgsfield の生成→検査→仕上げ→投稿文まで、日本語で頼むだけで進める。有料生成は見積もりとOKの後だけ。",
-      "version": "1.0.8",
+      "description": "Bakeru：キャラ動画の制作ツール。テーマ決め→絵とキャラ→ネタ→台本→Higgsfield の生成→検査→仕上げ→投稿文とハッシュタグまで、日本語で頼むだけで進める。60秒の会話の形、語りつきの物語の形（75〜130秒）、ホームコメディの形（台本）の3つ。有料生成は見積もりとOKの後だけ。",
+      "version": "1.1.0",
       "source": {
         "source": "archive",
-        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.0.8.zip",
-        "sha256": "4078836258808f2359af01a0dba648788c976ec06f6217a83ace60487874dadb"
+        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.1.0.zip",
+        "sha256": "a2671ccae8b2bd456d9f2d143b7b98b166dc34db7837dd60ff970be10387051a"
       }
     }
   ]

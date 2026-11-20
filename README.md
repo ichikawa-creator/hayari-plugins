@@ -12,4 +12,4 @@ claude plugin install ai-reels@hayari
 ```
 
 ## ai-reels
-AIキャラ動画の説明書（https://mds-sales.vercel.app/link/ai-reels ）の手順を Claude Code で進めるプラグイン。
+Bakeru：キャラ動画の制作ツール。テーマ決めから投稿文まで、Claude に話しかけるだけで進めるプラグイン（ https://mds-sales.vercel.app/s/reels ）。
