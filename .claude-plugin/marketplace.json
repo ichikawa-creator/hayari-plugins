@@ -9,11 +9,11 @@
     {
       "name": "ai-reels",
       "description": "Bakeru：キャラ動画の制作ツール。テーマ決め→絵とキャラ→ネタ→台本→Higgsfield の生成→検査→仕上げ→投稿文とハッシュタグまで、日本語で頼むだけで進める。60秒の会話の形。有料生成は見積もりとOKの後だけ。物語の形・ホームコメディの形は Bakeru Pro。",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "source": {
         "source": "archive",
-        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.2.0.zip",
-        "sha256": "10a6a0b5f03e6ad156bdc28f927ff4e9ac4a2b0534fe1ac8c898b5cecf436973"
+        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.2.1.zip",
+        "sha256": "2c550072452c4d207d47bd177662699a6c2eca79d0cf97c429a53e05287bf1b7"
       }
     }
   ]
