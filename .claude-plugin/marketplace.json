@@ -3,17 +3,17 @@
   "description": "Hayari の Claude Code プラグイン",
   "owner": {
     "name": "Hayari",
-    "url": "https://mds-sales.vercel.app/link/ai-reels"
+    "url": "https://bakeru.app"
   },
   "plugins": [
     {
       "name": "ai-reels",
       "description": "Bakeru：キャラ動画の制作ツール。テーマ決め→絵とキャラ→ネタ→台本→Higgsfield の生成→検査→仕上げ→投稿文とハッシュタグまで、日本語で頼むだけで進める。60秒の会話の形。有料生成は見積もりとOKの後だけ。物語の形・ホームコメディの形は Bakeru Pro。",
-      "version": "1.2.6",
+      "version": "1.2.7",
       "source": {
         "source": "archive",
-        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.2.6.zip",
-        "sha256": "5a7250058ae5a51586889414ee61ebc15ab421add46b334072043fb7df6006e5"
+        "url": "https://mds-sales.vercel.app/link/ai-reels/claude/ai-reels-1.2.7.zip",
+        "sha256": "0ef24c9281ba854b670a56df0fd6f68c3523f17ee1e80267affa4941056b142f"
       }
     }
   ]
